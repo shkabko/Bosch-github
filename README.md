@@ -6,7 +6,7 @@
 
 This project requires **Python 2.7** or **Python 3.5** and the following Python libraries installed:
 
-- [NumPy](http://www.numpy.org/)
+- [numpy](http://www.numpy.org/)
 - [pandas](http://pandas.pydata.org/)
 - [xgboost](http://xgboost.readthedocs.io/en/latest/)
 - [scipy](https://www.scipy.org/)
