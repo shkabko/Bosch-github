@@ -1,6 +1,6 @@
 
 # MLND Capstone Project
-## Predict Manufacturing Failures in BOSCH Production Line
+## Predict Manufacturing Failures in BOSCH Production Lines
 
 ### Install
 
