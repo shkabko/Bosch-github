@@ -1,11 +1,10 @@
 
-
 # MLND Capstone Project
 ## Predict Manufacturing Failures in BOSCH Production Line
-             gfgdhdf
+
 ### Install
 
-This project requires **Python 2.7** or **Python 3.5** and the following Python libraries installed     
+This project requires **Python 2.7** or **Python 3.5** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
 - [pandas](http://pandas.pydata.org/)
@@ -16,16 +15,14 @@ This project requires **Python 2.7** or **Python 3.5** and the following Python 
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 
-You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
-
-Udacity recommends our students install [Anaconda](https://www.continuum.io/downloads), a pre-packed Python distribution that contains all of the necessary libraries and software for this project. 
+You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html) 
 
 ### Minumum hardware requirments: 
 RAM 64Gb
 
 ### Code
-hhfgh
-Please follow the .pdf, there are files for every chapter.
+
+Please follow the Capstone.pdf, there are files for every chapter followed by description.
 
 ### Data
 The data can be uploaded from Kaggle https://www.kaggle.com/c/bosch-production-line-performance/data
