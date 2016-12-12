@@ -36,6 +36,6 @@ In this competition, Bosch is challenging Kagglers to predict internal failures 
 
 ### Final result
 
-<img width="75%" src="http://cdn.rawgit.com/shkabko/Bosch-github/master/leaderboard.png">
+<img width="75%" src="http://cdn.rawgit.com/shkabko/Bosch-github/master/img/leaderboard.png">
 
 
