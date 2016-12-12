@@ -35,8 +35,8 @@ Because Bosch records data at every step along its assembly lines, they have the
 In this competition, Bosch is challenging Kagglers to predict internal failures using thousands of measurements and tests made for each component along the assembly line. This would enable Bosch to bring quality products at lower costs to the end user.
 
 ### Final result
-![alt tag](http://cdn.rawgit.com/shkabko/Bosch-github/master/leaderboard.tif)
+![alt tag](http://cdn.rawgit.com/shkabko/Bosch-github/master/leaderboard.png)
 
-<img width="25%" src="http://cdn.rawgit.com/shkabko/Bosch-github/master/leaderboard.tif">
+<img width="25%" src="http://cdn.rawgit.com/shkabko/Bosch-github/master/leaderboard.png">
 
 
